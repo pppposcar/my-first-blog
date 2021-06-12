@@ -19,7 +19,7 @@ h1, h2, h3, h4 {
 }
 
 .date {
-    color: #828282;
+    color :black;
 }
 
 .save {
@@ -45,6 +45,3 @@ h1, h2, h3, h4 {
     color: #000000;
 }
 
-.date {
-    color :blue;
-}
